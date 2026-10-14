@@ -4,7 +4,7 @@ Instrucciones para la ejecucion del proyecto
 
 2.- Crear el entorno vitual:    python -m venv venv
 
-3.- Activar el entorno vitual:  venv\Scripts\activate
+3.- Activar el entorno vitual:  .\venv\Scripts\activate
 
 4.- Instalar dependencias:      pip install fastapi uvicorn pydantic
 
